@@ -1,0 +1,26 @@
+{
+  "accounts": {
+    "account{0}": "0xCf4161a7A8FCeEA4263C70eEcacA6197281Bb275"
+  },
+  "linkReferences": {},
+  "transactions": [
+    {
+      "timestamp": 1679335824564,
+      "record": {
+        "value": "0",
+        "inputs": "()",
+        "parameters": [],
+        "name": "",
+        "type": "constructor",
+        "abi": "0x518674ab2b227e5f11e9084f615d57663cde47bce1ba168b4c19c7ee22a73d70",
+        "contractName": "Address",
+        "bytecode": "60566023600b82828239805160001a607314601657fe5b30600052607381538281f3fe73000000000000000000000000000000000000000030146080604052600080fdfea2646970667358221220d305bde24d09fd2fd7a8c92a739337b4e017e8b31866ea0607dad3b4795bc6bc64736f6c63430006000033",
+        "linkReferences": {},
+        "from": "account{0}"
+      }
+    }
+  ],
+  "abis": {
+    "0x518674ab2b227e5f11e9084f615d57663cde47bce1ba168b4c19c7ee22a73d70": []
+  }
+}
